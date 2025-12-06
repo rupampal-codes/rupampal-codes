@@ -5,7 +5,7 @@
 
 
 
-## 👋 Hi, I’m **Rupam Pal**
+## 👋 Hi, I’m **Rupam Pal** (<a href="https://rupampal.site">rupampal.site</a>)
 
 I’m a passionate **Full Stack Developer** with strong experience in **JavaScript, MERN Stack, React, Next.js, Node.js, MongoDB**, and a growing interest in **system design, networking, and cybersecurity**.  
 I love building real-world applications with clean UI/UX, scalable architecture, and pixel-perfect design.
