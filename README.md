@@ -1,10 +1,7 @@
-<table>
-  <tr>
-    <td><img src="./Untitled design.gif" width="100%"></td>
-    <td><img src="./Untitled design.gif" width="100%"></td>
-    <td><img src="./Untitled design.gif" width="100%"></td>
-  </tr>
-</table>
+<img src="./Untitled design.gif" width="33%" />
+<img src="./Untitled design.gif" width="33%" />
+<img src="./Untitled design.gif" width="33%" />
+
 
 
 
