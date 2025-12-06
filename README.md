@@ -1,5 +1,9 @@
 <p align="right">
   <img src="./Untitled design.gif" width="300" />
+  
+  <img src="./Untitled design.gif" width="300" />
+  
+  <img src="./Untitled design.gif" width="300" />
 </p>
 
 ## 👋 Hi, I’m **Rupam Pal**
