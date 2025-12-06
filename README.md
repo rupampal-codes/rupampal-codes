@@ -1,10 +1,9 @@
-<p align="right">
-  <img src="./Untitled design.gif" width="300" />
-  
-  <img src="./Untitled design.gif" width="300" />
-  
-  <img src="./Untitled design.gif" width="300" />
-</p>
+<div style="display: flex; width: 100%; padding: 0; margin: 0;">
+  <img src="./Untitled design.gif" style="width: 33.33%; margin: 0; padding: 0;" />
+  <img src="./Untitled design.gif" style="width: 33.33%; margin: 0; padding: 0;" />
+  <img src="./Untitled design.gif" style="width: 33.33%; margin: 0; padding: 0;" />
+</div>
+
 
 ## 👋 Hi, I’m **Rupam Pal**
 
