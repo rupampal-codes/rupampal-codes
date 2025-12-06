@@ -1,8 +1,11 @@
-<div style="display: flex; width: 100%; padding: 0; margin: 0;">
-  <img src="./Untitled design.gif" style="width: 33.33%; margin: 0; padding: 0;" />
-  <img src="./Untitled design.gif" style="width: 33.33%; margin: 0; padding: 0;" />
-  <img src="./Untitled design.gif" style="width: 33.33%; margin: 0; padding: 0;" />
-</div>
+<table>
+  <tr>
+    <td><img src="./Untitled design.gif" width="100%"></td>
+    <td><img src="./Untitled design.gif" width="100%"></td>
+    <td><img src="./Untitled design.gif" width="100%"></td>
+  </tr>
+</table>
+
 
 
 ## 👋 Hi, I’m **Rupam Pal**
