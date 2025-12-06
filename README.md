@@ -1,10 +1,7 @@
-<table cellspacing="0" cellpadding="0" >
-  <tr>
-    <td><img src="./Untitled design.gif" width="100%"></td>
-    <td><img src="./Untitled design.gif" width="100%"></td>
-    <td><img src="./Untitled design.gif" width="100%"></td>
-  </tr>
-</table>
+<img src="./Untitled design.gif" width="33.34%" />
+<img src="./Untitled design.gif" width="33.34%" />
+<img src="./Untitled design.gif" width="33.34%" />
+
 
 
 
