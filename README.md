@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dribbble.com/shots/6188233-404-page-What-a-Story" width="300" />
+  <img src="./Untitled design.gif" width="300" />
 </p>
 
 ## 👋 Hi, I’m **Rupam Pal**
