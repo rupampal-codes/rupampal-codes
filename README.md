@@ -1,4 +1,4 @@
-<img src="./Untitled design.gif" width="33.33%"/><img src="./Untitled design.gif" width="33.33%"/><img src="./Untitled design.gif" width="33.33%"/>
+<img src="./right.gif" width="33.33%"/><img src="./Untitled design.gif" width="33.33%"/><img src="./Untitled design.gif" width="33.33%"/>
 
 
 
