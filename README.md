@@ -32,7 +32,7 @@ I love building real-world applications with clean UI/UX, scalable architecture,
 - Creating smooth user experiences  
 - Building creative side-projects  
 - Learning new frameworks & tools  
-- Helping people understand tech with simplicity
+- Helping people understand tech with simplicity 
 
 ### 📬 Connect With Me
 Feel free to reach out for collaboration, internship opportunities, or tech discussions!
