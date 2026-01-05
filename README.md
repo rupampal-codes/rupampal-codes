@@ -12,7 +12,7 @@ I love building real-world applications with clean UI/UX, scalable architecture,
 
 ### 🚀 What I Do
 - Build full-stack web apps with **React + Node.js + MongoDB**
-- Design modern, responsive UIs using **Tailwind CSS**
+- Design modern, responsive UIs using **Tailwind CSS** 
 - Develop secure authentication & authorization systems (JWT, Passport)
 - Experiment with **Socket.IO**, **Electron**, and 2D game development
 - Focus on writing clean, maintainable, and production-ready code
